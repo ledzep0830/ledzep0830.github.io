@@ -9,6 +9,8 @@ tags:
   - jekyll
   - theme
   - netlify
+  - OS
+  - book
 show_hero: true
 menu:
   - title: Home
