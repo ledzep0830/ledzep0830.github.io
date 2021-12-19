@@ -2,7 +2,7 @@
 layout: author
 photo: /assets/img/uploads/profile.png
 name: ledzep0830
-display_name: 
+display_name: 김형준
 position: Chief Editor
 bio: Just a developer.
 github_username: ledzep0830
